@@ -15,4 +15,7 @@ on raspberry pi (control-panel route).
 
 Make sure you have alexa custom skills done and you must use ngrok ( which provides public url) endpoint to expose your alexa skills to the internet.
 
+Finally make sure you have installed all the necessary packages listed in requriment.txt file.
+
+Be sure that you have installed using pip install Flask-Ask command and If you get any error rleated to cryptography then use this command  pip install cryptography==1.9
 
